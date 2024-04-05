@@ -1,0 +1,21 @@
+{
+  "shoppinglists": [
+    {
+      "id": "0.uuyaw54thoo",
+      "name": "Lidl",
+      "items": [
+        "Šunka",
+        "Chleba",
+        "Sýr"
+      ]
+    },
+    {
+      "id": "0.8vvw8m27rd4",
+      "name": "Kaufland",
+      "items": [
+        "Chleba",
+        "Jogurt"
+      ]
+    }
+  ]
+}
